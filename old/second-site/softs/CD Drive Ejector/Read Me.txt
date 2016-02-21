@@ -1,0 +1,11 @@
+CD Drive Ejector 2.0
+--------------------
+
+INSTALLATION
+------------
+* Unzip CDEjectorI.zip.
+* Copy CDEjectorI.exe and paste it into a directory. Eg: C:\CDDE
+* Run CDEjectorI.exe and follow the instruction on the screen.
+
+* After installing press Alt+Ctrl+ <CDDrive Letter>.
+  Drive tray atomatically Open/Close.

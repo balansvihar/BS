@@ -1,0 +1,22 @@
+{
+  "works": [
+    {
+      "title": "Ra-One Game",
+      "url":"www.balsoft.in/raone",
+      "desc":"A Prequel to the movie Ra One, made with fun filled fantacy derived from the movie. This is my first game developed in HTML5, Canvas, CSS3 and Javascript.",
+	  "img":"rone.jpg"
+    },  
+	{
+      "title": "Expense Manager",
+      "url":"www.balsoft.in/e",
+      "desc":"A web application for managing your expenses and income. You can make this application to play the role of your Money Manager, Finance Manager, Saving Traker etc...",
+	  "img":"exm.jpg"
+    },
+    {
+      "title": "Cape Institute of Technology",
+      "url":"www.capeitech.org",
+      "desc":"Developed when I was doing my U.G. HOD motivated me to the max to get good shape with the website.Thanks much Raja Sir. As of now, the site has been totally revamped by my juniors but still my logo smiles at you ;)",
+	  "img":"cit.jpg"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+
+	All programs were freeware. This means that you are free to distribute it anywhere you 
+like in case you do not modify the executables. If you place a program on some Web Site,
+you should place a link to Balsoft site near the link to this program. 
+This program is provided AS IS. I will be glad to hear from you any suggestions, 
+bug reports and offers. Please Visit http://www.balsoft.cjb.net 
+There you can always find information about free software, utilities, etc.
+
+* You need Visual Basic 6.0 runtime files to run some of my software.
+
+
+-Balan

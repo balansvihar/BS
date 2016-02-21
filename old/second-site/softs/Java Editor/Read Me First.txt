@@ -1,0 +1,39 @@
+JAVA EDITOR 1.1
+----------------
+
+
+INSTALLATION
+-------------
+
+* Unzip JavaEditor.zip
+* Copy the JavaEditor.exe and paste into you JDK (bin) directory where you have the javac.exe and java.exe file.
+   E.g.: C:\jdk1.5.0\bin
+* If you need, create a shortcut of JavaEditor.exe on your desktop.
+
+
+HOW TO USE JAVA EDITOR?
+---------------------
+Using Java Editor is simple us you use a notepad.
+
+	1) Click File--> New.
+	2) Enter the main class name and click Ok.
+	   This will create a skeleton of a program.
+	3) Type the program.
+	4) Press F9 to compile it.
+	5) To run the program press F10.
+
+
+ADVANTAGES OF JAVA Editor
+---------------------------------
+
+	1) Simple as notepad.
+	2) Require less memory space.
+	3) Compile and run the code is simple.
+	4) Automatic skeleton generation.
+	5) User-friendly.
+
+
+
+For more details please contact me.			Visit
+E-Mail:balan_sp@yahoo.com			www.balsoft.cjb.net
+

@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+# 1week
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+ 
+ 
+# 1 week
+<FilesMatch "\.(html|php)$">
+Header set Cache-Control "max-age=604800, must-revalidate"
+</FilesMatch>
